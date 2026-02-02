@@ -1,0 +1,4 @@
+2  # Version number (integer)
+- Added new features
+- Fixed memory leaks
+- Improved stability
