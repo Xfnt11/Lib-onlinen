@@ -1,4 +1,4 @@
-2  # Version number (integer)
+2
 - Added new features
-- Fixed memory leaks
+- Fixed memory leaks  
 - Improved stability
