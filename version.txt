@@ -1,4 +1,4 @@
-1
+2
 - Added new features
 - Fixed memory leaks  
 - Improved stability
